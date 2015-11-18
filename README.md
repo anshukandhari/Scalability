@@ -150,18 +150,16 @@
 	- HTTP Accelerators/non-blocking asynch IO/ CDNs
 
 
-Selecting DB Platform:
+## Selecting DB Platform:
 	- CAP Theorem: Its impossible to get all the of these
 		* Consistency – all clients see the same data at the same time
  		* Availability – all clients can find all data even in presence of failure
 		* Partition Tolerance – system works even when one node failed
 
-
-Some References:
-
-Operation  => CPU cycles
-L1			    3
-L2			    14
-RAM			    250
-Disk		    41,000,000
-Network		    240,000,000
+## Some References:
+	Operation  => CPU cycles
+	L1			    3
+	L2			    14
+	RAM			    250
+	Disk		    41,000,000
+	Network		    240,000,000
